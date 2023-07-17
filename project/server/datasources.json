@@ -8,9 +8,7 @@
     "port": 27017,
     "url": "",
     "database": "mydb",
-    "password": "priya",
     "name": "mongodbDs",
-    "user": "priya",
     "useNewUrlParser": true,
     "connector": "mongodb",
     "writeConcern": {
